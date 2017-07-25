@@ -5,6 +5,6 @@ PROCEDURA FLASH ARDUINO
 - La USB to TTL ch340 se seteaza outputul pe 3V (se conecteaza pinul 5V cu pinul VCC folosind jumperul)
 - pe microcontroler se conecteaza pinul gpio0 la masa
 - Se conecteaza pinii 3V, GND, TXV (transmit data) si RXD (receive data) de la usb la microcontroller
-- Porniti alimentarea din switch si deconectati pinul gpio) de la masa
+- Porniti alimentarea din switch si deconectati pinul gpio0 de la masa
 
 https://www.youtube.com/watch?v=_wHRH_hwhR8&t=239s
